@@ -1,4 +1,4 @@
-## 📌 Mohammad Furqan
+## 📌 Hassan Musharraf
 
 🚀 **Software Developer** | Full Stack | 
 📍 Pune, India | hassanmushrrf@gmail.com
