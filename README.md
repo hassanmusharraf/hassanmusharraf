@@ -44,17 +44,17 @@ I love building scalable backend systems, optimizing performance, and working wi
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanmusharraf&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmusharraf&layout=compact)
 
 ---
 
 ## 🌐 Connect With Me  
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🧑‍💻 GitHub: https://github.com/your-username  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hassan-musharraf/)  
+- 🧑‍💻 GitHub: [https://github.com/your-username](https://github.com/hassanmusharraf)  
+- 📧 Email: hassanmushrrf@gmail.com  
 
 ---
 
