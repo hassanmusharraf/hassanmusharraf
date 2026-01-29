@@ -52,8 +52,8 @@ I love building scalable backend systems, optimizing performance, and working wi
 
 ## 🌐 Connect With Me  
 
-- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hassan-musharraf/)  
-- 🧑‍💻 GitHub: [https://github.com/your-username](https://github.com/hassanmusharraf)  
+- 💼 LinkedIn: [https://linkedin.com/in/hassan-musharraf](https://www.linkedin.com/in/hassan-musharraf/)  
+- 🧑‍💻 GitHub: [https://github.com/hassanmusharraf](https://github.com/hassanmusharraf)  
 - 📧 Email: hassanmushrrf@gmail.com  
 
 ---
