@@ -44,9 +44,15 @@ I love building scalable backend systems, optimizing performance, and working wi
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanmusharraf&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmusharraf&layout=compact&theme=light&langs_count=8&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassanmusharraf&theme=light&hide_border=false)
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hassanmusharraf&bg_color=121212&color=ffffff&line=ffffff&point=00ff40&area=true&hide_border=true" alt="hassanmusharraf" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmusharraf&layout=compact)
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
 
 ---
 
