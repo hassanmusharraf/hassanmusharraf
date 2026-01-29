@@ -1,41 +1,69 @@
-# 🚀 Project Name  
+# 👋 Hi, I'm Hassan Musharraf  
 
-A powerful and scalable backend application built with Django & Python.
+🚀 Backend Developer | Django Enthusiast | Problem Solver  
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Django](https://img.shields.io/badge/Django-Backend-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+I love building scalable backend systems, optimizing performance, and working with real-world data.
 
 ---
 
-## 📌 About  
+## 🧑‍💻 About Me  
 
-This project is designed to provide a clean, optimized, and scalable backend solution following industry best practices.
-
-### ✨ Features
-- Authentication & Role Management  
-- Excel Import with Chunk Processing  
-- Optimized Database Queries  
-- Clean Code Structure  
-- Scalable Architecture  
+- 💻 Backend Developer (Django & Python)  
+- 📊 Experience with data processing (Pandas, Excel imports)  
+- 🏗 Building scalable web applications  
+- 🌱 Currently improving system design & performance  
+- 🎯 Interested in Logistics, Supply Chain & SaaS products  
 
 ---
 
-## ⚙️ Tech Stack  
+## 🛠️ Tech Stack  
 
+### Backend
 - Python  
 - Django  
-- SQL / PostgreSQL  
+- Django REST Framework  
+
+### Database
+- PostgreSQL  
+- SQL Server  
+
+### Tools & Others
 - Pandas  
+- Git & GitHub  
 - IIS / Nginx  
 
 ---
 
-## 🚀 Setup & Run  
+## 📈 What I’m Working On  
 
-### Clone Repository
+- 🚀 Scalable Django backend systems  
+- 📦 Logistics & supply chain related applications  
+- ⚡ Performance optimization  
 
-```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+---
+
+## 🌐 Connect With Me  
+
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🧑‍💻 GitHub: https://github.com/your-username  
+- 📧 Email: your-email@example.com  
+
+---
+
+## ✨ Fun Facts  
+
+- I enjoy solving backend performance issues ⚡  
+- I love learning how large systems scale 🌍  
+- Always curious about new technologies 🚀  
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to connect 😄
